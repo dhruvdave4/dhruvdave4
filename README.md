@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dhruvdave4/dhruvdave4/main/profile-banner.png" alt="Dhruv Dave - Embedded Software Engineer">
+<img width="2048" height="768" alt="dhruvdave" src="https://github.com/user-attachments/assets/2021ce2e-41ee-4f5c-97a8-6e4e3d0f9450" />
 
 # Dhruv Dave
 
