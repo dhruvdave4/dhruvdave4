@@ -4,9 +4,9 @@
 
 # Dhruv Dave
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Ebedded system devloper;Laravel+%7C+React+%7C+ Firmware;Building+Real+World+Products;Embedded HMI;Open+to+work+Opportunities" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Embedded+Software+Engineer;Embedded+Firmware+Developer;STM32+%7C+ESP32+%7C+FreeRTOS;Embedded+HMI+%7C+TouchGFX+%7C+LVGL;Building+Real-World+Embedded+Products;Always+Learning+%7C+Always+Building" />
 </div>
-
 ---
 
 ## 👨‍💻 About
