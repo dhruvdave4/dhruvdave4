@@ -1,234 +1,362 @@
 # Hi, I'm Dhruv Dave 👋
 
-### Embedded Systems Engineer | Firmware | ESP32 | STM32 | FreeRTOS | Embedded HMI
+### Embedded Software Engineer | Firmware | STM32 | ESP32 | FreeRTOS | Embedded HMI
 
-I’m an **Embedded Systems and Firmware enthusiast** focused on developing practical hardware-software solutions.
+I'm an **Embedded Software Engineer** with hands-on experience in embedded firmware development, real-time systems, microcontrollers, and embedded HMI development.
 
-My work spans **embedded C/C++, microcontrollers, FreeRTOS, ESP-IDF, communication protocols, embedded HMI, TouchGFX, and electronics/PCB design**.
+Currently working as a **Trainee Embedded Firmware Engineer at IDEX-India**, where I work on embedded firmware, microcontrollers, PCB-related development, and TouchGFX-based HMI applications for industrial equipment.
 
-I enjoy working close to the hardware — understanding datasheets, writing firmware, interfacing peripherals, debugging systems, and turning ideas into working embedded products.
+My development experience includes **Embedded C/C++, STM32, ESP32, ESP-IDF, FreeRTOS, LVGL, TouchGFX, UART, SPI, I²C, PWM, interrupts, and real-time application development**.
 
----
-
-## 🔧 What I Work On
-
-* Embedded Firmware Development
-* Microcontroller Programming
-* ESP32 / ESP-IDF
-* STM32 / ARM Cortex-M
-* FreeRTOS
-* Embedded HMI & TouchGFX
-* UART / SPI / I²C
-* PWM & Timers
-* GPIO & Interrupts
-* Sensors & Peripheral Interfacing
-* Electronics & PCB Design
-* Hardware-Software Integration
-* Debugging & Testing
+I enjoy working across the hardware-software boundary — from understanding hardware and peripherals to writing firmware, designing interfaces, debugging systems, and building practical embedded applications.
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-### Programming
+* 🔧 Embedded Software / Firmware Engineer
+* 🏭 Currently working at **IDEX-India**
+* 🎓 B.Tech in Electronics & Communication Engineering
+* 💻 Strong interest in Embedded C and firmware development
+* ⚡ Hands-on experience with STM32 and ESP32
+* 🧵 Working with FreeRTOS and real-time embedded concepts
+* 🖥️ Developing embedded HMI applications using TouchGFX and LVGL
+* 🔌 Working with UART, SPI, I²C, GPIO and PWM
+* 🔬 Interested in hardware-software integration and debugging
+* 📚 Continuously improving my embedded software and system-design skills
+* 🎯 Looking to grow as a professional Embedded Firmware / Embedded Software Engineer
 
-`C` `C++` `Embedded C` `Python`
+---
 
-### Microcontrollers & Platforms
+# 🛠️ Technical Skills
 
-`ESP32` `ESP32-S3` `STM32` `ARM Cortex-M`
+### Programming Languages
 
-### Embedded Software
+`C` `C++` `Embedded C` `Python (Basic)`
 
-`ESP-IDF` `FreeRTOS` `STM32CubeIDE` `STM32CubeMX`
+### Microcontrollers
+
+`STM32` `ESP32` `ESP32-S3` `ARM Cortex-M`
+
+### Embedded Frameworks & SDKs
+
+`ESP-IDF` `FreeRTOS` `LVGL` `TouchGFX`
 
 ### Communication & Peripherals
 
-`UART` `SPI` `I²C` `PWM` `GPIO` `Timers` `Interrupts`
+`UART` `SPI` `I²C` `GPIO` `PWM`
+`Interrupts` `Timers`
 
-### HMI
+### RTOS Concepts
 
-`TouchGFX` `Embedded GUI` `Industrial HMI`
+`Tasks` `Queues` `Mutexes` `Binary Semaphores`
+`Event Groups` `Task Notifications` `Software Timers`
+`Task Synchronization`
 
-### Electronics
+### Embedded Concepts
 
-`Circuit Design` `PCB Design` `Schematic Design` `EasyEDA`
+`Memory Layout` `Stack` `Heap` `BSS` `Data`
+`Bit Manipulation` `Function Pointers` `Callbacks`
+`Interrupts` `Event-Driven Programming`
+
+### HMI / GUI
+
+`TouchGFX` `LVGL` `Embedded HMI`
+`Custom UI Components` `Touch Interfaces`
 
 ### Development Tools
 
-`Git` `GitHub` `VS Code` `Logic Analyzer` `Oscilloscope` `Multimeter`
+`STM32CubeIDE` `VS Code` `Arduino IDE`
+`CMake` `Git` `GitHub` `SquareLine Studio`
+
+### PCB / Hardware
+
+`KiCad` `EasyEDA` `Altium (Basic)`
+`Schematic Design` `PCB Design` `Hardware Debugging`
+
+### Operating Systems
+
+`Linux / WSL` `FreeRTOS`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🖥️ Industrial HMI Keypad
+## 🖥️ STM32 TouchGFX Login System
 
-**TouchGFX | C++ | Embedded HMI**
+**STM32 | C++ | TouchGFX | STM32CubeIDE**
 
-A custom on-screen keyboard interface designed for industrial embedded applications.
+A TouchGFX-based embedded login interface developed for STM32.
 
-### Features
+### Key Features
 
-* Uppercase keyboard
-* Lowercase keyboard
-* Numeric keyboard
-* Special characters
-* Touch-based user interaction
-* Embedded GUI development using TouchGFX
+* Custom on-screen keyboard
+* Username and password input
+* Password show / hide functionality
+* Touch-based interaction
+* Screen navigation
+* System Admin Mode
+* Access-key validation
+* Reusable custom UI containers
+* Modular interface design
 
-🔗 [View Project](https://github.com/dhruvdave4/industrial_hmi_keypad)
+🔗 **Repository:**
+https://github.com/dhruvdave4/TouchGFX-Login-System
 
 ---
 
-## ❤️ Blood Pressure Monitoring System
+## ⌨️ Industrial HMI Keyboard
 
-**ESP32-S3 | Embedded Systems | EasyEDA**
+**STM32 | TouchGFX | STM32CubeIDE**
 
-An embedded blood-pressure monitoring system developed around the ESP32-S3 with a focus on hardware and firmware integration.
+A reusable on-screen keyboard designed for industrial HMI applications.
 
-### Focus Areas
+### Key Features
 
-* Sensor interfacing
-* Embedded firmware
-* ESP32-S3
-* Hardware design
-* PCB development
-* System-level integration
+* Modular UI components
+* Reusable keyboard architecture
+* Touch interaction
+* STM32 integration
+* Industrial HMI design
+* Scalable UI structure
 
-🔗 [View Project](https://github.com/dhruvdave4/blood-pressure-monitoring)
+🔗 **Repository:**
+https://github.com/dhruvdave4/industrialhmikeypad2
+
+---
+
+## ❤️ Blood Pressure Monitor UI
+
+**LVGL | C | Embedded HMI**
+
+A modern embedded HMI interface designed for a blood-pressure monitoring application.
+
+### Key Features
+
+* Start / Stop controls
+* Dynamic UI elements
+* Reusable screens
+* Embedded GUI development
+* Medical-device-inspired interface
+
+🔗 **Repository:**
+https://github.com/dhruvdave4/blood-pressure-ui-lvgl
+
+---
+
+## 🚗 LVGL Automotive Speedometer
+
+**LVGL | C | Embedded GUI**
+
+An automotive-inspired digital speedometer dashboard developed using LVGL.
+
+### Key Features
+
+* Dynamic speed display
+* Arc-based speed indicator
+* Timer-based UI updates
+* Event-driven programming
+* Reusable UI architecture
+
+🔗 **Repository:**
+https://github.com/dhruvdave4/LVGLDigitalSpeedometer2
 
 ---
 
 ## ⚡ ESP-IDF + FreeRTOS Projects
 
-I use ESP-IDF and FreeRTOS to explore real-time embedded software concepts and understand how production-oriented firmware is structured.
+**ESP32 | ESP-IDF | FreeRTOS | Embedded C**
 
-### Topics I Practice
+A collection of embedded projects developed to understand real-time firmware development using ESP-IDF and FreeRTOS.
 
-* FreeRTOS tasks
-* Software timers
-* Binary semaphores
-* GPIO
-* Push-button handling
-* LED control
-* PWM
-* UART communication
-* Task synchronization
-* Real-time event handling
+### Concepts Implemented
 
-🔗 [View my ESP-IDF projects](https://github.com/dhruvdave4?tab=repositories)
+* FreeRTOS Tasks
+* Software Timers
+* Binary Semaphores
+* Queues
+* Task Synchronization
+* UART Communication
+* PWM Control
+* Push-button interrupt handling
+* Event-driven firmware
 
----
-
-# 📚 Currently Learning
-
-### Embedded Software
-
-`Advanced Embedded C`
-`FreeRTOS`
-`RTOS Architecture`
-`Device Drivers`
-`Interrupt & DMA Programming`
-`Memory Management`
-
-### Communication
-
-`UART` → `SPI` → `I²C` → `CAN`
-
-### Hardware
-
-`PCB Design`
-`Hardware Debugging`
-`Signal Analysis`
-`Embedded System Design`
-
-### HMI
-
-`TouchGFX`
-`Embedded GUI`
-`Qt / HMI Development`
+🔗 **GitHub:**
+https://github.com/dhruvdave4
 
 ---
 
-# 🎯 Career Goal
+## 🩺 Smart Health Monitoring System
 
-I am looking for opportunities in:
+**ESP32 | Embedded C | Sensors | Blynk**
 
-* Embedded Firmware Engineering
+An ESP32-based health monitoring system for acquiring and monitoring physiological data.
+
+### Focus Areas
+
+* Sensor interfacing
+* Data acquisition
+* Embedded firmware
+* Real-time monitoring
+* ESP32 development
+* Application-level data visualization
+
+🔗 **Repository:**
+https://github.com/dhruvdave4/blood-pressure-monitoring
+
+---
+
+# 💼 Professional Experience
+
+### Trainee Embedded Firmware Engineer — IDEX-India
+
+**July 2025 – Present**
+
+Working on embedded firmware development and embedded industrial applications.
+
+Areas of involvement include:
+
+* Embedded firmware development
+* Microcontroller programming
+* Embedded application development
+* PCB-related development
+* TouchGFX-based HMI development
+* Industrial embedded systems
+
+---
+
+### Project Intern — IF MedTech
+
+**December 2024 – May 2025**
+
+Worked on hardware-software interfacing and embedded application development.
+
+* Embedded firmware development
+* Controller programming
+* Hardware-software integration
+* PCB development exposure
+
+---
+
+# 🎓 Education
+
+### B.Tech — Electronics & Communication Engineering
+
+**Birla Vishvakarma Mahavidyalaya, Gujarat**
+
+**2021 – 2025**
+
+CGPA: **7.16**
+
+---
+
+# 🏆 Achievements
+
+🥇 **1st Rank — Electronics & Communication Department Project Competition**
+
+Developed an **RC remote-controlled car**.
+
+🏅 **Technical Team Event Manager — UDDAN'24**
+
+Organized technical events involving Arduino programming, circuit design and sensor-based projects.
+
+---
+
+# 📚 Currently Improving
+
+I'm currently focused on developing stronger production-level embedded engineering skills in:
+
+```text
+Advanced Embedded C
+        ↓
+STM32 / ARM Cortex-M
+        ↓
+Peripheral Drivers
+        ↓
+UART / SPI / I²C
+        ↓
+CAN
+        ↓
+FreeRTOS
+        ↓
+Embedded HMI
+        ↓
+Debugging & Testing
+        ↓
+Production-Level Firmware
+```
+
+---
+
+# 🎯 Career Focus
+
+I'm interested in opportunities involving:
+
+* Embedded Firmware Development
 * Embedded Software Engineering
-* Embedded Systems Engineering
+* Embedded Systems
 * Automotive Embedded Systems
 * Industrial Electronics
 * Embedded HMI
 * Hardware-Software Integration
-* Firmware Validation & Testing
+* Firmware Testing & Validation
 
-I am particularly interested in working on **real-world embedded products** where I can contribute to firmware development while continuously improving my understanding of hardware, software architecture, debugging and system design.
+I'm particularly interested in working on **real-world embedded products**, where I can contribute to firmware development and continue growing in system architecture, debugging, communication protocols, RTOS and embedded software design.
 
 ---
 
-# 🧠 My Engineering Approach
+# 🧠 My Engineering Philosophy
 
 ```text
-Understand the Hardware
-        ↓
-Read the Datasheet
-        ↓
-Design the Firmware
-        ↓
-Interface the Peripherals
-        ↓
-Test & Debug
-        ↓
-Measure the System
-        ↓
-Document the Solution
-        ↓
+Understand
+    ↓
+Design
+    ↓
+Code
+    ↓
+Build
+    ↓
+Debug
+    ↓
+Test
+    ↓
+Document
+    ↓
 Improve
 ```
 
-I believe embedded engineering is not only about writing code.
+I believe good embedded engineering requires more than writing firmware.
 
-It is about understanding the complete system:
+It requires understanding the complete system:
 
-**Hardware + Firmware + Communication + Debugging + Testing**
+**Hardware + Firmware + Communication + HMI + Debugging + Testing**
 
 ---
 
-# 📈 What I'm Building Toward
+# 📊 GitHub Stats
 
-My goal is to progress from individual embedded projects toward **production-oriented embedded systems** involving:
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvdave4\&show_icons=true\&theme=default)
 
-* Modular firmware architecture
-* RTOS-based applications
-* Driver development
-* CAN communication
-* Robust error handling
-* Hardware debugging
-* Embedded HMI
-* Power and memory optimization
-* Automated testing
-* Production-quality documentation
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvdave4\&layout=compact)
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in connecting with:
+I'm always interested in connecting with engineers and professionals working in:
 
-* Embedded Engineers
-* Firmware Developers
-* Electronics Engineers
-* Automotive Engineers
-* HMI Developers
-* Open-source contributors
+**Embedded Systems | Firmware | Electronics | Automotive | Industrial Automation | HMI**
 
-I'm open to **entry-level embedded opportunities, internships, projects, collaborations and learning opportunities**.
+📧 **Email:** [dhruvdave4620@gmail.com](mailto:dhruvdave4620@gmail.com)
+
+🔗 **LinkedIn:**
+https://www.linkedin.com/in/dhruv-dave-7961362b2/
+
+🔗 **GitHub:**
+https://github.com/dhruvdave4
 
 ---
 
 ### ⭐ Thanks for visiting my profile!
 
 **Build. Debug. Learn. Repeat. 🔧**
-![snake gif](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
