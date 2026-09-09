@@ -1,5 +1,8 @@
 # Hi, I'm Dhruv Dave 👋
 
+
+ <img width="2048" height="768" alt="dhruvdave" src="https://github.com/user-attachments/assets/5e7c36c4-902c-4066-a2c2-03990d9d1dd7" />
+
 ### Embedded Software Engineer | Firmware | STM32 | ESP32 | FreeRTOS | Embedded HMI
 
 I'm an **Embedded Software Engineer** with hands-on experience in embedded firmware development, real-time systems, microcontrollers, and embedded HMI development.
