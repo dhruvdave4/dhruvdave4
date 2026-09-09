@@ -4,13 +4,7 @@
 
 # Dhruv Dave
 
-### Embedded Software Engineer · Firmware · Embedded HMI
-
-**STM32 · ESP32 · FreeRTOS · TouchGFX · LVGL · Embedded C/C++**
-
-[![GitHub](https://img.shields.io/badge/GitHub-dhruvdave4-181717?logo=github)](https://github.com/dhruvdave4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv%20Dave-0A66C2?logo=linkedin)](https://www.linkedin.com/in/dhruv-dave-7961362b2/)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Ebedded system devloper;Laravel+%7C+React+%7C+ Firmware;Building+Real+World+Products;Embedded HMI;Open+to+work+Opportunities" />
 </div>
 
 ---
